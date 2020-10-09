@@ -1,0 +1,383 @@
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Mannschaft.dll.config
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Mannschaft.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Mannschaft.pdb
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csc.exe
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csc.exe.config
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csc.rsp
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csi.exe
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csi.exe.config
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\csi.rsp
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.AppContext.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Console.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Net.Http.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\vbc.exe
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\vbc.exe.config
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\vbc.rsp
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Antlr3.Runtime.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Newtonsoft.Json.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\System.Web.Optimization.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\WebGrease.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\System.Web.Optimization.xml
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Newtonsoft.Json.xml
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Antlr3.Runtime.pdb
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CopyComplete
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\obj\Debug\Mannschaft.dll
+C:\Users\Nutzer\Documents\Visual Studio 2019\Mannschaft\Mannschaft\obj\Debug\Mannschaft.pdb
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\obj\Debug\Mannschaft.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\obj\Debug\Mannschaft.pdb
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Mannschaft.dll.config
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Mannschaft.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Mannschaft.pdb
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csc.exe
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csc.exe.config
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csc.rsp
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csi.exe
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csi.exe.config
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\csi.rsp
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.AppContext.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Console.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Net.Http.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\vbc.exe
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\vbc.exe.config
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\vbc.rsp
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Antlr3.Runtime.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Newtonsoft.Json.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\System.Web.Optimization.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\WebGrease.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\System.Web.Optimization.xml
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Newtonsoft.Json.xml
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Antlr3.Runtime.pdb
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\de\System.Web.Optimization.resources.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Nutzer\Desktop\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CopyComplete
+F:\DESKTOP\schule\Mannschaft\Mannschaft\obj\Debug\Mannschaft.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\obj\Debug\Mannschaft.pdb
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Mannschaft.dll.config
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Mannschaft.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Mannschaft.pdb
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csc.exe
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csc.exe.config
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csc.rsp
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csi.exe
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csi.exe.config
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\csi.rsp
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.AppContext.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Collections.Immutable.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Console.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Globalization.Calendars.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Net.Http.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Net.Sockets.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Reflection.Metadata.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.ValueTuple.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\vbc.exe
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\vbc.exe.config
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\vbc.rsp
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe.config
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Antlr3.Runtime.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.bootstrap.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.jQuery.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.WebForms.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.Web.Infrastructure.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Newtonsoft.Json.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\System.Web.Optimization.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\WebGrease.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\System.Web.Optimization.xml
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Newtonsoft.Json.xml
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Antlr3.Runtime.pdb
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\de\System.Web.Optimization.resources.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\DESKTOP\schule\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
+F:\DESKTOP\schule\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CopyComplete
+E:\Schule\PRO\wird dran gearbeite\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
+E:\Schule\PRO\wird dran gearbeite\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CoreCompileInputs.cache
+H:\Mannschaft\Mannschaft\bin\Mannschaft.dll.config
+H:\Mannschaft\Mannschaft\bin\Mannschaft.dll
+H:\Mannschaft\Mannschaft\bin\Mannschaft.pdb
+H:\Mannschaft\Mannschaft\bin\roslyn\csc.exe
+H:\Mannschaft\Mannschaft\bin\roslyn\csc.exe.config
+H:\Mannschaft\Mannschaft\bin\roslyn\csc.rsp
+H:\Mannschaft\Mannschaft\bin\roslyn\csi.exe
+H:\Mannschaft\Mannschaft\bin\roslyn\csi.exe.config
+H:\Mannschaft\Mannschaft\bin\roslyn\csi.rsp
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.AppContext.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Collections.Immutable.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Console.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Globalization.Calendars.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Net.Http.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Net.Sockets.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Reflection.Metadata.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.ValueTuple.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Mannschaft\Mannschaft\bin\roslyn\vbc.exe
+H:\Mannschaft\Mannschaft\bin\roslyn\vbc.exe.config
+H:\Mannschaft\Mannschaft\bin\roslyn\vbc.rsp
+H:\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe
+H:\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe.config
+H:\Mannschaft\Mannschaft\bin\Antlr3.Runtime.dll
+H:\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.bootstrap.dll
+H:\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.jQuery.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Mannschaft\Mannschaft\bin\Microsoft.Web.Infrastructure.dll
+H:\Mannschaft\Mannschaft\bin\Newtonsoft.Json.dll
+H:\Mannschaft\Mannschaft\bin\System.Web.Optimization.dll
+H:\Mannschaft\Mannschaft\bin\WebGrease.dll
+H:\Mannschaft\Mannschaft\bin\System.Web.Optimization.xml
+H:\Mannschaft\Mannschaft\bin\Newtonsoft.Json.xml
+H:\Mannschaft\Mannschaft\bin\Antlr3.Runtime.pdb
+H:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Mannschaft\Mannschaft\bin\de\System.Web.Optimization.resources.dll
+H:\Mannschaft\Mannschaft\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CoreCompileInputs.cache
+H:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CopyComplete
+H:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.dll
+H:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.pdb
+E:\Mannschaft\Mannschaft\bin\Mannschaft.dll.config
+E:\Mannschaft\Mannschaft\bin\Mannschaft.dll
+E:\Mannschaft\Mannschaft\bin\Mannschaft.pdb
+E:\Mannschaft\Mannschaft\bin\roslyn\csc.exe
+E:\Mannschaft\Mannschaft\bin\roslyn\csc.exe.config
+E:\Mannschaft\Mannschaft\bin\roslyn\csc.rsp
+E:\Mannschaft\Mannschaft\bin\roslyn\csi.exe
+E:\Mannschaft\Mannschaft\bin\roslyn\csi.exe.config
+E:\Mannschaft\Mannschaft\bin\roslyn\csi.rsp
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mannschaft\Mannschaft\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.AppContext.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Collections.Immutable.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Console.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Globalization.Calendars.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Net.Http.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Net.Sockets.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.ValueTuple.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mannschaft\Mannschaft\bin\roslyn\vbc.exe
+E:\Mannschaft\Mannschaft\bin\roslyn\vbc.exe.config
+E:\Mannschaft\Mannschaft\bin\roslyn\vbc.rsp
+E:\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe
+E:\Mannschaft\Mannschaft\bin\roslyn\VBCSCompiler.exe.config
+E:\Mannschaft\Mannschaft\bin\Antlr3.Runtime.dll
+E:\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Mannschaft\Mannschaft\bin\AspNet.ScriptManager.jQuery.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Mannschaft\Mannschaft\bin\Microsoft.Web.Infrastructure.dll
+E:\Mannschaft\Mannschaft\bin\Newtonsoft.Json.dll
+E:\Mannschaft\Mannschaft\bin\System.Web.Optimization.dll
+E:\Mannschaft\Mannschaft\bin\WebGrease.dll
+E:\Mannschaft\Mannschaft\bin\System.Web.Optimization.xml
+E:\Mannschaft\Mannschaft\bin\Newtonsoft.Json.xml
+E:\Mannschaft\Mannschaft\bin\Antlr3.Runtime.pdb
+E:\Mannschaft\Mannschaft\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Mannschaft\Mannschaft\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mannschaft\Mannschaft\bin\de\System.Web.Optimization.resources.dll
+E:\Mannschaft\Mannschaft\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
+E:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CoreCompileInputs.cache
+E:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csproj.CopyComplete
+E:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.dll
+E:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.pdb
+H:\Mannschaft\Mannschaft\bin\MySql.Data.dll
+H:\Mannschaft\Mannschaft\bin\MySql.Data.xml
+E:\Mannschaft\Mannschaft\bin\MySql.Data.dll
+E:\Mannschaft\Mannschaft\bin\MySql.Data.xml
+H:\Mannschaft\Mannschaft\obj\Debug\Mannschaft.csprojAssemblyReference.cache
